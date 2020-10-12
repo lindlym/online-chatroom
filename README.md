@@ -1,5 +1,5 @@
 # online-chatroom
-This is a duo-assignment for the Array Bootcamp to help with Sprint #3 of Array, which is the 4th and 5th week the students spend here at Array! This assignment will have the students create a complete online chat solution utilizing React, Redux, NodeJS and ExpressJS. Once again, the **interface** is completely you and your partner's choosing. Your chatroom will feature several different components!
+This is a duo-assignment for the Array Bootcamp to help with Sprint #3 of Array, which is the 4th and 5th week the students spend here at Array! This assignment will have the students create a complete online chat solution utilizing React, Redux, NodeJS and ExpressJS. Once again, the **interface** is completely you and your partner's choosing. Your chatroom will feature several different components! It will have a **homepage**, an **about** page and finally the full **chatbox** page!
 
 ### Technologies Required
 
@@ -11,7 +11,17 @@ This is a duo-assignment for the Array Bootcamp to help with Sprint #3 of Array,
 - ExpressJS
 - React Bootstrap
 
-## Requirements
+## Homepage Requirements
+Please choose a theme and make the homepage based on that theme. 
+
+1. Just some general information about what your chatbox discussion is for. 
+2. A general navigation element at the top, as well as making the homepage look as graphically nice as possible.
+
+## About Requirements
+
+1. Just another about page which includes the two authors information of the website.
+
+## Chatbox Requirements
 
 1. The user should be able to access the site and see a general chatroom that they can access. 
 2. They can optionally choose to create their own chatroom that users will be able to see.
@@ -21,7 +31,8 @@ This is a duo-assignment for the Array Bootcamp to help with Sprint #3 of Array,
 6. You can type into the chatbox and have a conversation (this is demonstrated with your partner).
 7. The user should be able to select a background color for their messages and it automatically makes the text either white or black.
 8. All users should be able to see who is in the chatroom (a list of users somewhere on the interface).
-9. The site will be deployed to Heroku, the naming for the URL will be `name1-name2-chatroom.herokuapp.com`, where name1 and name2 are the first names of you and your partner. This will be a process that you will **research on your own**, it will not be covered in class, you'll learn how to deploy it from the CLI!
+
+**NOTE: The site will be deployed to Heroku, the naming for the URL will be `name1-name2-chatroom.herokuapp.com`, where name1 and name2 are the first names of you and your partner. This will be a process that YOU WILL RESEARCH ON YOUR OWN, it will not be covered in class! You'll learn how to deploy it from the CLI!**
 
 ## Bonus #1
 
