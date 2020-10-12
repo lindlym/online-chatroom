@@ -1,5 +1,5 @@
 # online-chatroom
-Testing... This is a duo-assignment for the Array Bootcamp to help with Sprint #3 of Array, which is the 4th and 5th week the students spend here at Array! This assignment will have the students create a complete online chat solution utilizing React, Redux, NodeJS and ExpressJS. Once again, the **interface** is completely you and your partner's choosing. Your chatroom will feature several different components!
+This is a duo-assignment for the Array Bootcamp to help with Sprint #3 of Array, which is the 4th and 5th week the students spend here at Array! This assignment will have the students create a complete online chat solution utilizing React, Redux, NodeJS and ExpressJS. Once again, the **interface** is completely you and your partner's choosing. Your chatroom will feature several different components!
 
 ### Technologies Required
 
