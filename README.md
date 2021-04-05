@@ -1,5 +1,5 @@
 # online-chatroom
-This is a duo-assignment for the Array Bootcamp to help with Sprint #3 of Array, which is the 4th and 5th week the students spend here at Array! This assignment will have the students create a complete online chat solution utilizing React, Redux, NodeJS and ExpressJS. Once again, the **interface** is completely you and your partner's choosing. Your chatroom will feature several different components! It will have a **homepage**, an **about** page and finally the full **chatbox** page!
+This is another project for the Array Bootcamp to help with Sprint #3 of Array! This assignment will have the students create a complete online chat solution utilizing React, Redux, NodeJS and ExpressJS. Once again, the **interface** is completely up to the group's discretion. Your chatroom will feature several different components, it will have a **homepage**, an **about** page and finally the full **chatbox** page!
 
 ### Technologies Required
 
@@ -7,9 +7,10 @@ This is a duo-assignment for the Array Bootcamp to help with Sprint #3 of Array,
 - React Router
 - Redux
 - NodeJS
-- SocketIO
 - ExpressJS
 - React Bootstrap
+- SocketIO (Self-Research)
+- Heroku CLI & Deployment (Self-Research)
 
 ## Homepage Requirements
 Please choose a theme and make the homepage based on that theme. 
@@ -32,16 +33,16 @@ Please choose a theme and make the homepage based on that theme.
 7. The user should be able to select a background color for their messages and it automatically makes the text either white or black.
 8. All users should be able to see who is in the chatroom (a list of users somewhere on the interface).
 
-**NOTE: The site will be deployed to Heroku, the naming for the URL will be `name1-name2-chatroom.herokuapp.com`, where name1 and name2 are the first names of you and your partner. This will be a process that YOU WILL RESEARCH ON YOUR OWN, it will not be covered in class! You'll learn how to deploy it from the CLI!**
+**NOTE: The site will be deployed to Heroku, the naming for the URL will be `<theme-name>-chatroom.herokuapp.com`, where theme-name is a name decided by your group. This will be a deployment process that YOU WILL RESEARCH ON YOUR OWN! t will not be covered in class, you'll learn how to deploy it from the CLI!**
 
 ## Bonus #1
 
-Make the chatroom even better by creating "private messages" between two users. You can click their username from the list of users and then select "private message" to open a private message with the user. You can then type and have a private conversation. 
+Make the chatroom even better by creating "private messages" between two users. You can click their username from the list of users and then select "private message" to open a private message with the user. You can then type and have a private conversation. This can either be part of the interface, or some kind of "instant messaging" chat window that appears.
 
 ## Bonus #2
 
-Even further improve the chatbox by adding a "{Username} is typing..." indicator to the chatbox system. So if someone is typing, it should show they're typing. If multiple people are typing, it should show the first two and then say "{firstUsername}, {secondUsername} and {x} others are typing..." to signal that multiple users are typing. 
+Further improve the chatbox by adding a "{Username} is typing..." indicator to the chatbox system. So if someone is typing, it should show they're typing... If multiple people are typing, it should show the first two and then say "{firstUsername}, {secondUsername} and {x} others are typing..." to signal that multiple users are typing. 
 
-Example: "Matt, Justice and 5 others are typing..." 
+Example: "Matt, Savannah and 5 others are typing..." 
 
 #### There are no additional tasks for this assignment as I believe these tasks will take all of the available time. 
