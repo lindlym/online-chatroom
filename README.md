@@ -1,4 +1,4 @@
-# online-chatroom
+# Online Chatroom/Discord Clone
 This is another project for the Array Bootcamp to help with Sprint #3 of Array! This assignment will have the students create a complete online chat solution utilizing React, Redux, NodeJS and ExpressJS. Once again, the **interface** is completely up to the group's discretion. Your chatroom will feature several different components, it will have a **homepage**, an **about** page and finally the full **chatbox** page!
 
 ### Technologies Required
@@ -22,7 +22,7 @@ Please choose a theme and make the homepage based on that theme.
 
 1. Just another about page which includes the two authors information of the website.
 
-## Chatbox Requirements
+## Chatroom/Discord Clone Requirements
 
 1. The user should be able to access the site and see a general chatroom that they can access. 
 2. They can optionally choose to create their own chatroom that users will be able to see.
